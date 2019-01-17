@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book bookid = "001">
+		<title>java</title>
+		<author>guoyang</author>
+		<price>57</price>
+	</book>
+	<book bookid = "002">
+		<title>Python</title>
+		<author>weixinzhao</author>
+		<price>55</price>
+	</book>
+</books>
